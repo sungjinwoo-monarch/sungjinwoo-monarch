@@ -1,51 +1,59 @@
 <div align="center">
 
-# ███ MOHAMAD ISTAB AHAMAD ███
+# MOHAMAD ISTAB AHAMAD
 
-### AI DEVELOPER • FULL STACK DEVELOPER • HACKATHON WINNER
+### AI ENGINEER · FULL STACK DEVELOPER · PRODUCT BUILDER
 
-<img src="https://img.shields.io/badge/LOCATION-INDIA-FFD600?style=for-the-badge&labelColor=000000&color=FFD600"/>
+<br>
 
-<img src="https://img.shields.io/badge/AI-DEVELOPER-00E5FF?style=for-the-badge&labelColor=000000"/>
+[![Email](https://img.shields.io/badge/EMAIL-BLACK?style=for-the-badge&color=FF5C45)](mailto:istabahamad@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-BLACK?style=for-the-badge&color=FF5C45)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-BLACK?style=for-the-badge&color=FF5C45)](https://github.com/sungjinwoo-monarch)
 
-<img src="https://img.shields.io/badge/FULLSTACK-ENGINEER-FF00FF?style=for-the-badge&labelColor=000000"/>
+<br>
 
-<img src="https://img.shields.io/badge/HACKATHON-WINNER-39FF14?style=for-the-badge&labelColor=000000"/>
-
-<img src="https://komarev.com/ghpvc/?username=sungjinwoo-monarch&style=for-the-badge&color=FFD600"/>
+![](https://komarev.com/ghpvc/?username=sungjinwoo-monarch&style=for-the-badge&color=FF5C45)
 
 </div>
 
 ---
 
-# ▣ WHO AM I
+# WHO AM I
 
-```ts
-const istab = {
-    title: "AI Developer",
-    role: "Full Stack Developer",
-    university: "Manipur Technical University",
+Computer Science student building products with
 
-    interests: [
-        "Artificial Intelligence",
-        "LLMs",
-        "Machine Learning",
-        "Automation",
-        "Full Stack Development"
-    ],
+- Artificial Intelligence
+- Large Language Models
+- Full Stack Engineering
+- Automation Systems
+- Modern Web Technologies
 
-    mission:
-        "Build products that solve real problems."
-};
-```
+Winner of Northeast India's Largest 48-Hour AI Hackathon.
+
+AI Summit Exhibitor.
+
+Focused on building useful products rather than tutorials.
 
 ---
 
-# ▣ TECH ARSENAL
+# CURRENT STATUS
+
+| FIELD | VALUE |
+|--------|--------|
+| ROLE | AI Developer |
+| EDUCATION | B.Tech CSE |
+| UNIVERSITY | Manipur Technical University |
+| LOCATION | India |
+| INTERESTS | AI, LLMs, Full Stack |
+| OPEN TO | Internships, Startups, Research |
+
+---
+
+# TECH STACK
 
 ## LANGUAGES
 
-<p align="center">
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=python"/>
 
@@ -61,146 +69,156 @@ const istab = {
 
 ---
 
-# ▣ AI EXPERTISE
+## FRONTEND
 
-| DOMAIN | STATUS |
-|----------|----------|
-| GENERATIVE AI | ██████████ |
-| PROMPT ENGINEERING | ██████████ |
-| LLM APPLICATIONS | ██████████ |
-| AUTOMATION | ██████████ |
-| MACHINE LEARNING | ████████ |
-| PRODUCT ENGINEERING | █████████ |
+<p align="left">
 
----
+<img src="https://skillicons.dev/icons?i=react"/>
 
-# ▣ ACHIEVEMENTS
+<img src="https://skillicons.dev/icons?i=nextjs"/>
 
-🟨 WINNER — NORTHEAST INDIA'S LARGEST 48-HOUR AI HACKATHON
-
-🟦 AI SUMMIT EXHIBITOR
-
-🟪 FULL STACK DEVELOPER
-
-🟩 AI BUILDER
-
----
-
-# ▣ FEATURED PROJECTS
-
-<details>
-<summary><b>🟨 VIBE CODING PLATFORM</b></summary>
-
-### AI POWERED DEVELOPMENT PLATFORM
-
-STACK
-
-- NEXT.JS
-- TYPESCRIPT
-- SUPABASE
-- TAILWIND
-
-</details>
-
----
-
-<details>
-<summary><b>🟦 VIBE STACK</b></summary>
-
-### MODERN PRODUCT ENGINEERING ECOSYSTEM
-
-</details>
-
----
-
-<details>
-<summary><b>🟪 PORTFOLIO WEBSITE</b></summary>
-
-### PERSONAL BRANDING PLATFORM
-
-</details>
-
----
-
-# ▣ LIVE STATS
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sungjinwoo-monarch&show_icons=true&theme=radical"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungjinwoo-monarch&layout=compact&theme=radical"/>
-
-</div>
-
----
-
-# ▣ STREAK
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sungjinwoo-monarch&theme=radical"/>
-
-</div>
-
----
-
-# ▣ TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sungjinwoo-monarch&theme=onestar&column=4"/>
-
-</div>
-
----
-
-# ▣ CURRENT FOCUS
-
-```yaml
-LEARNING:
-  - AI ENGINEERING
-  - CLOUD
-  - MACHINE LEARNING
-
-BUILDING:
-  - AI APPS
-  - SAAS PRODUCTS
-  - DEVELOPER TOOLS
-
-EXPLORING:
-  - AGENTIC AI
-  - LLM SYSTEMS
-
-OPEN_TO:
-  - INTERNSHIPS
-  - HACKATHONS
-  - COLLABORATIONS
-```
-
----
-
-# ▣ CONNECT
-
-<p align="center">
-
-<a href="mailto:istabahamad@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-FFD600?style=for-the-badge&logo=gmail&logoColor=black"/>
-</a>
-
-<a href="https://github.com/sungjinwoo-monarch">
-<img src="https://img.shields.io/badge/GITHUB-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-<a href="https://www.linkedin.com/in/istab-maibam-127848375">
-<img src="https://img.shields.io/badge/LINKEDIN-FF00FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
-</a>
+<img src="https://skillicons.dev/icons?i=tailwind"/>
 
 </p>
 
 ---
 
+## BACKEND
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=express"/>
+
+</p>
+
+---
+
+## DATABASES
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+<img src="https://skillicons.dev/icons?i=postgres"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=firebase"/>
+
+</p>
+
+---
+
+# FEATURED PROJECTS
+
+## VIBE CODING PLATFORM
+
+AI-powered development platform designed to improve developer productivity.
+
+**STACK**
+
+Next.js · TypeScript · Supabase · Tailwind
+
+---
+
+## VIBE STACK
+
+Modern full-stack ecosystem focused on rapid product development.
+
+---
+
+## PORTFOLIO WEBSITE
+
+Personal digital presence showcasing projects, achievements, and technical journey.
+
+---
+
+# AI EXPERTISE
+
+| DOMAIN | LEVEL |
+|----------|----------|
+| GENERATIVE AI | ADVANCED |
+| PROMPT ENGINEERING | ADVANCED |
+| LLM APPLICATIONS | ADVANCED |
+| AUTOMATION | ADVANCED |
+| MACHINE LEARNING | INTERMEDIATE |
+| PRODUCT ENGINEERING | ADVANCED |
+
+---
+
+# GITHUB ANALYTICS
+
 <div align="center">
 
-# BUILD. BREAK. LEARN. REPEAT.
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sungjinwoo-monarch&show_icons=true&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungjinwoo-monarch&layout=compact&hide_border=true"/>
 
 </div>
+
+---
+
+# STREAK
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sungjinwoo-monarch&hide_border=true"/>
+
+</div>
+
+---
+
+# TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sungjinwoo-monarch&theme=flat&no-frame=true&column=4"/>
+
+</div>
+
+---
+
+# CURRENT FOCUS
+
+```yaml
+learning:
+  - AI Engineering
+  - Machine Learning
+  - Cloud Infrastructure
+
+building:
+  - AI Applications
+  - SaaS Products
+  - Developer Tools
+
+exploring:
+  - Agentic AI
+  - LLM Systems
+
+open_to:
+  - Internships
+  - Collaborations
+  - Open Source
+```
+
+---
+
+# CONTACT
+
+EMAIL
+
+istabahamad@gmail.com
+
+LINKEDIN
+
+linkedin.com/in/istab-maibam-127848375
+
+GITHUB
+
+github.com/sungjinwoo-monarch
+
+---
+
+# BUILD USEFUL THINGS.
