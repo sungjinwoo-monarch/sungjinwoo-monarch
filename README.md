@@ -1,249 +1,206 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:6D28D9,50:7C3AED,100:4F46E5&text=MOHAMAD%20ISTAB%20AHAMAD&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20•%20Full%20Stack%20Developer%20•%20CSE%20Student&descAlignY=58"/>
+# ███ MOHAMAD ISTAB AHAMAD ███
 
-<br/>
+### AI DEVELOPER • FULL STACK DEVELOPER • HACKATHON WINNER
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence+Developer;Full+Stack+Web+Developer;Hackathon+Winner;AI+Summit+Exhibitor;Building+Products+That+Matter"/>
+<img src="https://img.shields.io/badge/LOCATION-INDIA-FFD600?style=for-the-badge&labelColor=000000&color=FFD600"/>
 
-<br/>
+<img src="https://img.shields.io/badge/AI-DEVELOPER-00E5FF?style=for-the-badge&labelColor=000000"/>
 
-<a href="mailto:istabahamad@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/FULLSTACK-ENGINEER-FF00FF?style=for-the-badge&labelColor=000000"/>
 
-<a href="https://www.linkedin.com/in/istab-maibam-127848375">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/HACKATHON-WINNER-39FF14?style=for-the-badge&labelColor=000000"/>
 
-<a href="https://github.com/sungjinwoo-monarch">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=sungjinwoo-monarch&label=PROFILE+VIEWS&style=for-the-badge&color=7C3AED"/>
+<img src="https://komarev.com/ghpvc/?username=sungjinwoo-monarch&style=for-the-badge&color=FFD600"/>
 
 </div>
 
 ---
 
-# About Me
+# ▣ WHO AM I
 
-```typescript
+```ts
 const istab = {
-    role: "Computer Science Student",
+    title: "AI Developer",
+    role: "Full Stack Developer",
     university: "Manipur Technical University",
-    graduation: 2029,
 
     interests: [
         "Artificial Intelligence",
+        "LLMs",
         "Machine Learning",
-        "Generative AI",
-        "Large Language Models",
         "Automation",
         "Full Stack Development"
     ],
 
-    currentlyLearning: [
-        "AI Engineering",
-        "Cloud Computing",
-        "System Design",
-        "Advanced Full Stack Development"
-    ],
-
-    openTo: [
-        "Internships",
-        "Research Collaborations",
-        "Hackathons",
-        "Open Source",
-        "Startup Opportunities"
-    ]
+    mission:
+        "Build products that solve real problems."
 };
 ```
 
 ---
 
-# Tech Stack
+# ▣ TECH ARSENAL
 
-### Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts"/>
-</p>
-
-### Frontend
+## LANGUAGES
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
-</p>
 
-### Backend
+<img src="https://skillicons.dev/icons?i=python"/>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
+<img src="https://skillicons.dev/icons?i=cpp"/>
 
-### Databases
+<img src="https://skillicons.dev/icons?i=c"/>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase"/>
-</p>
+<img src="https://skillicons.dev/icons?i=js"/>
 
-### Cloud & Tools
+<img src="https://skillicons.dev/icons?i=ts"/>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,vscode"/>
 </p>
 
 ---
 
-# AI Expertise
+# ▣ AI EXPERTISE
 
-| Domain | Level |
+| DOMAIN | STATUS |
 |----------|----------|
-| Prompt Engineering | Advanced |
-| Generative AI | Advanced |
-| LLM Applications | Advanced |
-| AI Automation | Advanced |
-| Machine Learning | Intermediate |
-| AI Product Development | Advanced |
+| GENERATIVE AI | ██████████ |
+| PROMPT ENGINEERING | ██████████ |
+| LLM APPLICATIONS | ██████████ |
+| AUTOMATION | ██████████ |
+| MACHINE LEARNING | ████████ |
+| PRODUCT ENGINEERING | █████████ |
 
 ---
 
-# Achievements
+# ▣ ACHIEVEMENTS
 
-🏆 Winner — Northeast India's Largest 48-Hour AI Hackathon
+🟨 WINNER — NORTHEAST INDIA'S LARGEST 48-HOUR AI HACKATHON
 
-🎤 AI Summit Exhibitor
+🟦 AI SUMMIT EXHIBITOR
 
-🤖 AI & Full Stack Developer
+🟪 FULL STACK DEVELOPER
 
-🚀 Building AI-powered products
-
----
-
-# Featured Projects
-
-## 🚀 Vibe Coding Platform
-
-AI-powered development workflow platform.
-
-**Tech Stack**
-
-- Next.js
-- TypeScript
-- Tailwind
-- Supabase
+🟩 AI BUILDER
 
 ---
 
-## ⚡ Vibe Stack
+# ▣ FEATURED PROJECTS
 
-Modern development ecosystem for rapid product building.
+<details>
+<summary><b>🟨 VIBE CODING PLATFORM</b></summary>
+
+### AI POWERED DEVELOPMENT PLATFORM
+
+STACK
+
+- NEXT.JS
+- TYPESCRIPT
+- SUPABASE
+- TAILWIND
+
+</details>
 
 ---
 
-## 🌐 Portfolio Website
+<details>
+<summary><b>🟦 VIBE STACK</b></summary>
 
-Personal portfolio showcasing projects and achievements.
+### MODERN PRODUCT ENGINEERING ECOSYSTEM
+
+</details>
 
 ---
 
-# GitHub Analytics
+<details>
+<summary><b>🟪 PORTFOLIO WEBSITE</b></summary>
+
+### PERSONAL BRANDING PLATFORM
+
+</details>
+
+---
+
+# ▣ LIVE STATS
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sungjinwoo-monarch&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sungjinwoo-monarch&show_icons=true&theme=radical"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungjinwoo-monarch&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungjinwoo-monarch&layout=compact&theme=radical"/>
 
 </div>
 
 ---
 
-# GitHub Streak
+# ▣ STREAK
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sungjinwoo-monarch&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sungjinwoo-monarch&theme=radical"/>
 
 </div>
 
 ---
 
-# GitHub Trophies
+# ▣ TROPHIES
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sungjinwoo-monarch&theme=tokyonight&column=4&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sungjinwoo-monarch&theme=onestar&column=4"/>
 
 </div>
 
 ---
 
-# Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sungjinwoo-monarch&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# Current Focus
+# ▣ CURRENT FOCUS
 
 ```yaml
-learning:
-  - AI Engineering
-  - Machine Learning
-  - Cloud Computing
-  - System Design
+LEARNING:
+  - AI ENGINEERING
+  - CLOUD
+  - MACHINE LEARNING
 
-building:
-  - AI Applications
-  - Full Stack Products
-  - Developer Tools
+BUILDING:
+  - AI APPS
+  - SAAS PRODUCTS
+  - DEVELOPER TOOLS
 
-exploring:
-  - Agentic AI
-  - LLM Workflows
-  - Open Source
+EXPLORING:
+  - AGENTIC AI
+  - LLM SYSTEMS
 
-open_to:
-  - Internships
-  - Hackathons
-  - Research
-  - Collaborations
+OPEN_TO:
+  - INTERNSHIPS
+  - HACKATHONS
+  - COLLABORATIONS
 ```
 
 ---
 
-# Connect
+# ▣ CONNECT
 
-<div align="center">
+<p align="center">
 
 <a href="mailto:istabahamad@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/istab-maibam-127848375">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/GMAIL-FFD600?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
 <a href="https://github.com/sungjinwoo-monarch">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
-</div>
+<a href="https://www.linkedin.com/in/istab-maibam-127848375">
+<img src="https://img.shields.io/badge/LINKEDIN-FF00FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### Building intelligent software and turning ideas into products.
+# BUILD. BREAK. LEARN. REPEAT.
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:6D28D9,50:7C3AED,100:4F46E5"/>
