@@ -1,338 +1,45 @@
-<div align="center">
+# 💫 Hi 👋, I'm Mohamad Istab Ahamad
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3000&pause=1200&color=00FF88&center=true&vCenter=true&width=1000&lines=Mohamad+Istab+Ahamad;AI+Engineer+%7C+Full+Stack+Developer;Building+Products+with+AI+and+Code;Winner+of+Northeast+India's+Largest+AI+Hackathon;Exploring+LLMs+%2C+Automation+and+Cloud"/>
+**AI Developer || Full-Stack Developer || Computer Science Student from India**
 
-<br/>
+📧 Email Me 👉 **istabahamad@gmail.com** For Collaboration, Projects, Open Source Contributions, Research, or Anything Else.
 
-<a href="mailto:istabahamad@gmail.com">
-<img src="https://img.shields.io/badge/Email-00FF88?style=for-the-badge&logo=gmail&logoColor=black"/>
-</a>
+- 🚀 **I’m currently working on:** AI-Powered Applications, Full-Stack Products, and Automation Systems
+- 📚 **I’m currently learning:** AI Engineering, Machine Learning, Large Language Models (LLMs), and Cloud Computing
+- 🤝 **I’m looking to collaborate on:** AI Projects, Open Source Projects, and Innovative Tech Products
+- 🧠 **I’m looking for help with:** Advanced AI Systems and Scalable Product Development
+- 💬 **Ask me about:** Artificial Intelligence, Full-Stack Development, React, Next.js, TypeScript, and Python
 
-<a href="https://www.linkedin.com/in/istab-maibam-127848375">
-<img src="https://img.shields.io/badge/LinkedIn-00FF88?style=for-the-badge&logo=linkedin&logoColor=black"/>
-</a>
 
-<a href="https://github.com/sungjinwoo-monarch">
-<img src="https://img.shields.io/badge/GitHub-00FF88?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
 
-<br/>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jinwoo.sys) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/istabmaibam) [![Mastodon](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:istabahamad@gmail.com) 
 
-![](https://komarev.com/ghpvc/?username=sungjinwoo-monarch&label=PROFILE+VIEWS&style=for-the-badge&color=00FF88)
-
-</div>
-
----
-
-## ~/whoami
-
-```bash
-$ whoami
-
-Mohamad Istab Ahamad
-
-Computer Science & Engineering Student
-AI Engineer
-Full Stack Developer
-Hackathon Winner
-AI Summit Exhibitor
-```
-
-```bash
-$ cat about.txt
-
-Building products at the intersection of:
-
-• Artificial Intelligence
-• Large Language Models
-• Machine Learning
-• Automation
-• Full Stack Development
-
-Focused on creating useful technology,
-solving real-world problems,
-and shipping products people actually use.
-```
-
----
-
-## ~/neofetch
-
-```yaml
-Name: Mohamad Istab Ahamad
-
-Location:
-  - Imphal
-  - Manipur
-  - India
-
-Education:
-  Degree: B.Tech Computer Science & Engineering
-  University: Manipur Technical University
-  Graduation: 2029
-
-Achievements:
-  - Winner of Northeast India's Largest 48-Hour AI Hackathon
-  - AI Summit Exhibitor
-
-Current Focus:
-  - AI Engineering
-  - Product Development
-  - Automation
-  - Full Stack Applications
-
-Open To:
-  - Internships
-  - Research
-  - Startups
-  - Open Source
-```
-
----
-
-## ~/tech-stack
-
-### Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts&theme=dark"/>
-</p>
-
-### Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite&theme=dark"/>
-</p>
-
-### Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
-</p>
-
-### Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,supabase&theme=dark"/>
-</p>
-
-### Cloud & DevOps
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel&theme=dark"/>
-</p>
-
-### AI / Machine Learning
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark"/>
-</p>
+<!-- Snake Game Repo View -->
 
 <div align="center">
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,sklearn"/>
-
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
----
 
-## ~/expertise
 
-| Domain | Level |
-|----------|----------|
-| Artificial Intelligence | Advanced |
-| Generative AI | Advanced |
-| Prompt Engineering | Advanced |
-| LLM Applications | Advanced |
-| Automation Systems | Advanced |
-| Full Stack Development | Advanced |
-| Product Engineering | Advanced |
-| Machine Learning | Intermediate |
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=sungjinwoo-monarch&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=sungjinwoo-monarch&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sungjinwoo-monarch&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## ~/projects
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<details>
-<summary><b>📦 Vibe Coding Platform</b></summary>
-
-<br>
-
-AI-powered development workflow platform designed to improve developer productivity and accelerate software delivery.
-
-**Stack**
-
-- Next.js
-- TypeScript
-- Tailwind CSS
-- Supabase
-
-</details>
-
-<details>
-<summary><b>📦 Vibe Stack</b></summary>
-
-<br>
-
-Modern ecosystem focused on rapid product engineering and scalable application development.
-
-**Stack**
-
-- React
-- Node.js
-- PostgreSQL
-- Docker
-
-</details>
-
-<details>
-<summary><b>📦 Portfolio Website</b></summary>
-
-<br>
-
-Personal platform showcasing projects, achievements, skills, and technical journey.
-
-**Stack**
-
-- Next.js
-- Tailwind CSS
-- TypeScript
-
-</details>
-
-<details>
-<summary><b>📦 AI Experiments</b></summary>
-
-<br>
-
-Exploring Large Language Models, AI agents, automation systems, prompt engineering, and modern AI workflows.
-
-</details>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sungjinwoo-monarch&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=sungjinwoo-monarch&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## ~/achievements
-
-```bash
-$ achievements
-
-[✓] Winner - Northeast India's Largest 48-Hour AI Hackathon
-
-[✓] AI Summit Exhibitor
-
-[✓] AI Developer
-
-[✓] Full Stack Developer
-
-[✓] Product Builder
-```
-
----
-
-## ~/github-stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sungjinwoo-monarch&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungjinwoo-monarch&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
-## ~/streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sungjinwoo-monarch&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
----
-
-## ~/trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sungjinwoo-monarch&theme=algolia&no-frame=true&column=4"/>
-
-</div>
-
----
-
-## ~/activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sungjinwoo-monarch&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true"/>
-
-</div>
-
----
-
-## ~/snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sungjinwoo-monarch/sungjinwoo-monarch/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-## ~/current-focus
-
-```yaml
-Learning:
-  - AI Engineering
-  - Machine Learning
-  - Cloud Infrastructure
-  - System Design
-
-Building:
-  - AI Applications
-  - SaaS Products
-  - Full Stack Platforms
-  - Developer Tools
-
-Exploring:
-  - Agentic AI
-  - LLM Systems
-  - RAG Architectures
-  - AI Automation
-
-Open_To:
-  - Internships
-  - Open Source
-  - Research
-  - Startup Opportunities
-```
-
----
-
-## ~/connect
-
-```bash
-$ contact
-
-email      → istabahamad@gmail.com
-
-github     → github.com/sungjinwoo-monarch
-
-linkedin   → linkedin.com/in/istab-maibam-127848375
-```
-
----
-
-<div align="center">
-
-```bash
-$ echo "Build. Learn. Ship."
-
-Build. Learn. Ship.
-
-Status: Online
-```
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
