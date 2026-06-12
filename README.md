@@ -1,222 +1,308 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=400&text=MOHAMAD%20ISTAB%20AHAMAD&fontSize=60&fontColor=FFFFFF&color=0:0B0F19,100:121826"/>
-
-# ⚡ MOHAMAD ISTAB AHAMAD
-
-### AI ENGINEER • FULL STACK DEVELOPER • PRODUCT BUILDER
-
-<br>
-
-> Building intelligent systems, AI products, and scalable software experiences.
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,nodejs,docker,aws,mongodb,postgres"/>
-
-<br><br>
-
-[![Email](https://img.shields.io/badge/EMAIL-CONTACT-7C3AED?style=for-the-badge)](mailto:istabahamad@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-7C3AED?style=for-the-badge)](https://www.linkedin.com/in/istab-maibam-127848375)
-[![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-7C3AED?style=for-the-badge)](https://github.com/sungjinwoo-monarch)
-
-</div>
-
----
-
-# 🧠 DIGITAL IDENTITY
-
-```ts
-const istab = {
-  role: "AI Engineer",
-  education: "Computer Science & Engineering",
-  university: "Manipur Technical University",
-
-  focus: [
-    "Artificial Intelligence",
-    "Large Language Models",
-    "Generative AI",
-    "Full Stack Development",
-    "Automation"
-  ],
-
-  achievements: [
-    "Winner - Northeast India's Largest 48-Hour AI Hackathon",
-    "AI Summit Exhibitor"
-  ],
-
-  mission:
-    "Build products that impact millions."
-};
+```bash
+███████╗██╗   ██╗███╗   ██╗ ██████╗      ██╗██╗███╗   ██╗
+██╔════╝██║   ██║████╗  ██║██╔════╝      ██║██║████╗  ██║
+███████╗██║   ██║██╔██╗ ██║██║  ███╗     ██║██║██╔██╗ ██║
+╚════██║██║   ██║██║╚██╗██║██║   ██║██   ██║██║██║╚██╗██║
+███████║╚██████╔╝██║ ╚████║╚██████╔╝╚█████╔╝██║██║ ╚████║
+╚══════╝ ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝  ╚════╝ ╚═╝╚═╝  ╚═══╝
 ```
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=root%40istab%3A~%24+whoami;AI+Engineer;Full+Stack+Developer;Hackathon+Winner;AI+Summit+Exhibitor;Building+the+Future+with+Code"/>
 
-# 🚀 PRODUCT ECOSYSTEM
+```console
+root@istab:~$ whoami
 
-## Vibe Coding Platform
+Mohamad Istab Ahamad
+AI Engineer | Full Stack Developer | Product Builder
+```
 
-AI-powered workflow platform focused on developer productivity.
+[![Email](https://img.shields.io/badge/EMAIL-00FF41?style=for-the-badge&logo=gmail&logoColor=black)](mailto:istabahamad@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-00FF41?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/istab-maibam-127848375)
+[![GitHub](https://img.shields.io/badge/GITHUB-00FF41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/sungjinwoo-monarch)
 
-### Stack
-
-Next.js • TypeScript • Supabase • TailwindCSS
-
----
-
-## Vibe Stack
-
-Modern development ecosystem for rapid product engineering.
-
-### Stack
-
-React • Node.js • PostgreSQL • Docker
-
----
-
-## AI Experiments
-
-Building with:
-
-- LLMs
-- Agentic AI
-- Automation Systems
-- AI Workflows
-- Prompt Engineering
-
----
-
-# ⚡ TECHNOLOGY ARSENAL
-
-### Languages
-
-`Python` `JavaScript` `TypeScript` `C` `C++`
-
-### Frontend
-
-`React`
-`Next.js`
-`Tailwind CSS`
-
-### Backend
-
-`Node.js`
-`Express.js`
-
-### Databases
-
-`MongoDB`
-`PostgreSQL`
-`MySQL`
-`Firebase`
-`Supabase`
-
-### AI
-
-`TensorFlow`
-`PyTorch`
-`Scikit-Learn`
-`Pandas`
-`NumPy`
-
-### DevOps
-
-`Docker`
-`AWS`
-`GitHub Actions`
-`Git`
-
----
-
-# 🏆 ACHIEVEMENTS
-
-| Achievement | Description |
-|------------|-------------|
-| 🏆 AI Hackathon Winner | Northeast India's Largest 48-Hour AI Hackathon |
-| 🎤 AI Summit Exhibitor | Government-Supported AI Event |
-| 🤖 AI Developer | Building AI-powered solutions |
-| 🚀 Product Builder | Creating modern digital products |
-
----
-
-# 📊 COMMAND CENTER
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sungjinwoo-monarch&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungjinwoo-monarch&layout=compact&theme=tokyonight&hide_border=true"/>
+![](https://komarev.com/ghpvc/?username=sungjinwoo-monarch&label=PROFILE+VIEWS&style=for-the-badge&color=00FF41)
 
 </div>
 
 ---
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sungjinwoo-monarch&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🧬 CONTRIBUTION MATRIX
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sungjinwoo-monarch&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🎯 CURRENT FOCUS
+# > SYSTEM INFORMATION
 
 ```yaml
-learning:
-  - AI Engineering
-  - Machine Learning
-  - Cloud Infrastructure
-  - System Design
+Name: Mohamad Istab Ahamad
 
-building:
-  - AI Applications
-  - SaaS Products
-  - Full Stack Platforms
+Role:
+  - AI Engineer
+  - Full Stack Developer
+  - Product Builder
 
-exploring:
-  - Agentic AI
-  - LLM Systems
-  - Automation
+Location:
+  - Imphal
+  - Manipur
+  - India
 
-open_to:
-  - Internships
-  - Startups
-  - Open Source
-  - Research
+Education:
+  Degree: B.Tech CSE
+  University: Manipur Technical University
+  Graduation: 2029
+
+Status:
+  Winner: Northeast India's Largest 48-Hour AI Hackathon
+  Exhibitor: Government Supported AI Summit
 ```
 
 ---
 
-# 🌐 CONNECT
+# > ABOUT_ME
 
-**Email**
+```bash
+root@istab:~$ cat about_me.txt
 
-istabahamad@gmail.com
+I am a Computer Science student focused on
+Artificial Intelligence, Large Language Models,
+Machine Learning, Automation and Full Stack Development.
 
-**LinkedIn**
+I enjoy building products from idea to deployment.
 
-linkedin.com/in/istab-maibam-127848375
+My goal is simple:
 
-**GitHub**
+Build useful technology.
+Solve real problems.
+Ship products people actually use.
+```
 
-github.com/sungjinwoo-monarch
+---
+
+# > TECH_STACK
+
+## Languages
+
+```text
+Python      ████████████████████
+JavaScript  ████████████████████
+TypeScript  ███████████████████
+C++         ████████████████
+C           ███████████████
+HTML/CSS    ███████████████████
+```
+
+## Frontend
+
+```text
+React.js
+Next.js
+TailwindCSS
+HTML5
+CSS3
+```
+
+## Backend
+
+```text
+Node.js
+Express.js
+REST APIs
+```
+
+## Databases
+
+```text
+MongoDB
+PostgreSQL
+MySQL
+Firebase
+Supabase
+```
+
+## AI / ML
+
+```text
+Generative AI
+Prompt Engineering
+LLMs
+TensorFlow
+PyTorch
+Scikit-Learn
+NumPy
+Pandas
+```
+
+## DevOps
+
+```text
+Git
+GitHub
+Docker
+AWS
+Vercel
+GitHub Actions
+```
+
+---
+
+# > CURRENT_MISSION
+
+```bash
+root@istab:~$ mission
+
+[✓] Build AI Applications
+[✓] Develop SaaS Products
+[✓] Explore Agentic AI
+[✓] Learn Cloud Infrastructure
+[✓] Master System Design
+[✓] Contribute to Open Source
+```
+
+---
+
+# > FEATURED_PROJECTS
+
+## [ PROJECT_01 ]
+
+```console
+Name        : Vibe Coding Platform
+Type        : AI Powered Development Platform
+Status      : Active
+Stack       : Next.js + TypeScript + Tailwind + Supabase
+```
+
+---
+
+## [ PROJECT_02 ]
+
+```console
+Name        : Vibe Stack
+Type        : Product Engineering Ecosystem
+Status      : Active
+Stack       : React + Node.js + PostgreSQL
+```
+
+---
+
+## [ PROJECT_03 ]
+
+```console
+Name        : Portfolio Website
+Type        : Personal Brand Platform
+Status      : Active
+Stack       : Next.js + TailwindCSS
+```
+
+---
+
+# > ACHIEVEMENTS
+
+```bash
+root@istab:~$ achievements
+
+[✓] Winner - Northeast India's Largest 48-Hour AI Hackathon
+
+[✓] AI Summit Exhibitor
+
+[✓] AI Developer
+
+[✓] Full Stack Developer
+
+[✓] Product Builder
+```
+
+---
+
+# > GITHUB_ANALYTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sungjinwoo-monarch&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungjinwoo-monarch&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# > STREAK_STATS
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sungjinwoo-monarch&theme=chartreuse-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# > TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sungjinwoo-monarch&theme=matrix&column=4&no-frame=true"/>
+
+</div>
+
+---
+
+# > CONTRIBUTION_GRAPH
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sungjinwoo-monarch&theme=chartreuse-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# > CURRENT_FOCUS
+
+```bash
+root@istab:~$ focus
+
+Learning:
+  ├── AI Engineering
+  ├── Machine Learning
+  ├── Cloud Computing
+  └── System Design
+
+Building:
+  ├── AI Applications
+  ├── SaaS Products
+  ├── Full Stack Platforms
+  └── Developer Tools
+
+Exploring:
+  ├── Agentic AI
+  ├── RAG Systems
+  ├── LLM Workflows
+  └── AI Automation
+```
+
+---
+
+# > CONNECT
+
+```bash
+root@istab:~$ contact
+
+Email     : istabahamad@gmail.com
+
+LinkedIn  : linkedin.com/in/istab-maibam-127848375
+
+GitHub    : github.com/sungjinwoo-monarch
+```
 
 ---
 
 <div align="center">
 
-# BUILD THE FUTURE.
+```bash
+root@istab:~$
 
-### AI • SOFTWARE • PRODUCTS
+BUILD.
+HACK.
+LEARN.
+REPEAT.
+
+STATUS: ONLINE
+```
 
 </div>
