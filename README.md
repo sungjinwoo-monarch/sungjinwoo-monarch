@@ -1,123 +1,109 @@
 <div align="center">
 
-# MOHAMAD ISTAB AHAMAD
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=400&text=MOHAMAD%20ISTAB%20AHAMAD&fontSize=60&fontColor=FFFFFF&color=0:0B0F19,100:121826"/>
 
-### AI ENGINEER · FULL STACK DEVELOPER · PRODUCT BUILDER
+# ⚡ MOHAMAD ISTAB AHAMAD
 
-<br>
-
-Building intelligent products at the intersection of Artificial Intelligence, Automation, and Modern Web Development.
+### AI ENGINEER • FULL STACK DEVELOPER • PRODUCT BUILDER
 
 <br>
 
-[![Email](https://img.shields.io/badge/EMAIL-CONTACT-A6F4C5?style=for-the-badge&labelColor=111111&color=A6F4C5)](mailto:istabahamad@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-A6F4C5?style=for-the-badge&labelColor=111111&color=A6F4C5)](https://www.linkedin.com/in/istab-maibam-127848375)
-
-[![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-A6F4C5?style=for-the-badge&labelColor=111111&color=A6F4C5)](https://github.com/sungjinwoo-monarch)
+> Building intelligent systems, AI products, and scalable software experiences.
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=sungjinwoo-monarch&label=PROFILE+VIEWS&style=for-the-badge&color=A6F4C5)
+<img src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,nodejs,docker,aws,mongodb,postgres"/>
+
+<br><br>
+
+[![Email](https://img.shields.io/badge/EMAIL-CONTACT-7C3AED?style=for-the-badge)](mailto:istabahamad@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-7C3AED?style=for-the-badge)](https://www.linkedin.com/in/istab-maibam-127848375)
+[![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-7C3AED?style=for-the-badge)](https://github.com/sungjinwoo-monarch)
 
 </div>
 
 ---
 
-# About Me
+# 🧠 DIGITAL IDENTITY
 
-I'm a Computer Science & Engineering student focused on building useful products rather than simply writing code.
+```ts
+const istab = {
+  role: "AI Engineer",
+  education: "Computer Science & Engineering",
+  university: "Manipur Technical University",
 
-My work revolves around Artificial Intelligence, Large Language Models, Full Stack Engineering, Automation Systems, and Product Development.
+  focus: [
+    "Artificial Intelligence",
+    "Large Language Models",
+    "Generative AI",
+    "Full Stack Development",
+    "Automation"
+  ],
 
-I enjoy taking ambitious ideas from concept to execution and continuously exploring technologies that push software forward.
+  achievements: [
+    "Winner - Northeast India's Largest 48-Hour AI Hackathon",
+    "AI Summit Exhibitor"
+  ],
 
-### Highlights
-
-- 🏆 Winner of Northeast India's Largest 48-Hour AI Hackathon
-- 🎤 AI Summit Exhibitor
-- 🤖 AI Developer
-- 💻 Full Stack Developer
-- 🚀 Product Builder
-- 🌍 Based in India
-
----
-
-# Current Status
-
-| Field | Details |
-|---------|---------|
-| Education | B.Tech Computer Science & Engineering |
-| University | Manipur Technical University |
-| Graduation | 2029 |
-| Focus | Artificial Intelligence & Product Engineering |
-| Location | Imphal, Manipur, India |
-| Open To | Internships, Research, Startups, Open Source |
-| Mission | Build products that create meaningful impact |
+  mission:
+    "Build products that impact millions."
+};
+```
 
 ---
 
-# What I'm Doing
+# 🚀 PRODUCT ECOSYSTEM
 
-### Building
+## Vibe Coding Platform
 
-- AI-Powered Applications
-- Developer Productivity Tools
-- Full Stack Platforms
-- SaaS Products
-- Automation Systems
+AI-powered workflow platform focused on developer productivity.
 
-### Learning
+### Stack
 
-- Advanced AI Engineering
-- Machine Learning
-- Cloud Infrastructure
-- System Design
-- Product Architecture
+Next.js • TypeScript • Supabase • TailwindCSS
 
-### Exploring
+---
 
+## Vibe Stack
+
+Modern development ecosystem for rapid product engineering.
+
+### Stack
+
+React • Node.js • PostgreSQL • Docker
+
+---
+
+## AI Experiments
+
+Building with:
+
+- LLMs
 - Agentic AI
-- Retrieval-Augmented Generation
-- LLM Workflows
-- AI Automation
-- Open Source Ecosystems
+- Automation Systems
+- AI Workflows
+- Prompt Engineering
 
 ---
 
-# Tech Stack
+# ⚡ TECHNOLOGY ARSENAL
 
-## Languages
+### Languages
 
-`Python`
-`JavaScript`
-`TypeScript`
-`C`
-`C++`
-`HTML5`
-`CSS3`
+`Python` `JavaScript` `TypeScript` `C` `C++`
 
----
-
-## Frontend
+### Frontend
 
 `React`
 `Next.js`
 `Tailwind CSS`
-`HTML`
-`CSS`
 
----
-
-## Backend
+### Backend
 
 `Node.js`
 `Express.js`
-`REST APIs`
 
----
-
-## Databases
+### Databases
 
 `MongoDB`
 `PostgreSQL`
@@ -125,184 +111,112 @@ I enjoy taking ambitious ideas from concept to execution and continuously explor
 `Firebase`
 `Supabase`
 
----
+### AI
 
-## AI / ML
-
-`Generative AI`
-`Prompt Engineering`
-`LLMs`
 `TensorFlow`
 `PyTorch`
 `Scikit-Learn`
-`NumPy`
 `Pandas`
+`NumPy`
 
----
+### DevOps
 
-## Cloud & DevOps
-
-`Git`
-`GitHub`
 `Docker`
 `AWS`
-`Vercel`
 `GitHub Actions`
+`Git`
 
 ---
 
-# Selected Work
+# 🏆 ACHIEVEMENTS
 
-## Vibe Coding Platform
-
-AI-powered development workflow platform focused on improving developer productivity.
-
-**Technology**
-
-Next.js · TypeScript · Tailwind CSS · Supabase
-
----
-
-## Vibe Stack
-
-A modern full-stack ecosystem designed for rapid product development and experimentation.
-
-**Technology**
-
-React · Node.js · PostgreSQL · Docker
+| Achievement | Description |
+|------------|-------------|
+| 🏆 AI Hackathon Winner | Northeast India's Largest 48-Hour AI Hackathon |
+| 🎤 AI Summit Exhibitor | Government-Supported AI Event |
+| 🤖 AI Developer | Building AI-powered solutions |
+| 🚀 Product Builder | Creating modern digital products |
 
 ---
 
-## Portfolio Website
-
-Personal platform showcasing projects, achievements, skills, and technical journey.
-
-**Technology**
-
-Next.js · Tailwind CSS · TypeScript
-
----
-
-## AI Projects
-
-Experiments and products built around Generative AI, Prompt Engineering, LLMs, and Automation.
-
-**Focus**
-
-Artificial Intelligence · Automation · Product Engineering
-
----
-
-# Achievements
-
-| Recognition | Description |
-|-------------|-------------|
-| 🏆 Hackathon Winner | Winner of Northeast India's Largest 48-Hour AI Hackathon |
-| 🎤 AI Summit Exhibitor | Showcased projects at a Government-Supported AI Summit |
-| 🤖 AI Developer | Building AI-powered products and solutions |
-| 🚀 Product Builder | Focused on creating useful technology products |
-
----
-
-# Areas of Interest
-
-- Artificial Intelligence
-- Machine Learning
-- Large Language Models
-- Generative AI
-- Automation
-- Product Engineering
-- Full Stack Development
-- Open Source
-- Cloud Computing
-- Developer Tools
-
----
-
-# GitHub Analytics
+# 📊 COMMAND CENTER
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sungjinwoo-monarch&show_icons=true&hide_border=true&bg_color=00000000"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sungjinwoo-monarch&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungjinwoo-monarch&layout=compact&hide_border=true&bg_color=00000000"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungjinwoo-monarch&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# Contribution Activity
-
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sungjinwoo-monarch&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sungjinwoo-monarch&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# GitHub Trophies
+# 🧬 CONTRIBUTION MATRIX
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sungjinwoo-monarch&theme=flat&no-frame=true&column=4"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sungjinwoo-monarch&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-# Current Focus
+# 🎯 CURRENT FOCUS
 
 ```yaml
-Learning:
-  - Artificial Intelligence
+learning:
+  - AI Engineering
   - Machine Learning
   - Cloud Infrastructure
   - System Design
 
-Building:
+building:
   - AI Applications
   - SaaS Products
   - Full Stack Platforms
-  - Developer Tools
 
-Exploring:
+exploring:
   - Agentic AI
   - LLM Systems
-  - Automation Workflows
-  - Product Engineering
+  - Automation
 
-Open_To:
+open_to:
   - Internships
+  - Startups
   - Open Source
   - Research
-  - Startup Opportunities
 ```
 
 ---
 
-# Connect
+# 🌐 CONNECT
 
-### Email
+**Email**
 
-**istabahamad@gmail.com**
+istabahamad@gmail.com
 
-### LinkedIn
+**LinkedIn**
 
-**linkedin.com/in/istab-maibam-127848375**
+linkedin.com/in/istab-maibam-127848375
 
-### GitHub
+**GitHub**
 
-**github.com/sungjinwoo-monarch**
+github.com/sungjinwoo-monarch
 
 ---
 
-# BUILD USEFUL THINGS.
-
-Create products. Solve problems. Keep shipping.
-
 <div align="center">
 
-2026 © Mohamad Istab Ahamad
+# BUILD THE FUTURE.
+
+### AI • SOFTWARE • PRODUCTS
 
 </div>
