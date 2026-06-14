@@ -1,153 +1,170 @@
-<rect
-  x="50"
-  y="260"
-  width="380"
-  height="260"
-  rx="12"
-  fill="#0B1220"
-  stroke="#7C3AED"
-  stroke-width="2"/>
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
 
-<text
-  x="240"
-  y="300"
-  fill="#A855F7"
-  font-size="28"
-  text-anchor="middle"
-  filter="url(#glow)">
-
-  HUNTER STATUS
-<text
-  x="80"
-  y="510"
-  fill="#A855F7"
-  font-size="18">
-
-  MANA
-
-</text>
-
-<rect
-  x="140"
-  y="495"
-  width="220"
-  height="18"
-  rx="8"
-  fill="#222"/>
-
-<rect
-  x="140"
-  y="495"
-  width="190"
-  height="18"
-  rx="8"
-  fill="#7C3AED"/>
-</text>
-
-<text
-  x="80"
-  y="350"
-  fill="white"
-  font-size="22">
-
-  TITLE : SHADOW ARCHITECT
-
-</text>
-
-<text
-  x="80"
-  y="390"
-  fill="white"
-  font-size="22">
-
-  CLASS : AI ENGINEER
-
-</text>
-
-<text
-  x="80"
-  y="430"
-  fill="white"
-  font-size="22">
-
-  RANK : B
-
-</text>
-
-<text
-  x="80"
-  y="470"
-  fill="white"
-  font-size="22">
-
-  STATUS : ONLINE
-
-</text>
 <svg
+xmlns="http://www.w3.org/2000/svg"
 width="1400"
 height="800"
-viewBox="0 0 1400 800"
-xmlns="http://www.w3.org/2000/svg">
+viewBox="0 0 1400 800">
 
-<rect
-width="1400"
-height="800"
-fill="#050816"/>
+  <defs>
 
-<rect
-x="10"
-y="10"
-width="1380"
-height="780"
-fill="none"
-stroke="#7C3AED"
-stroke-width="2"/>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
 
-<text x="700"
-      y="120"
-      fill="#A855F7"
-      font-size="64"
-      text-anchor="middle"
-      filter="url(#glow)">
-⚔ SHADOW SYSTEM ⚔
+  </defs>
 
-</text>
+  <!-- Background -->
 
-<text x="700"
-      y="120"
-      fill="#A855F7"
-      font-size="64"
-      text-anchor="middle"
-      filter="url(#glow)">
-PLAYER : MOHAMAD ISTAB AHAMAD
+  <rect
+    width="1400"
+    height="800"
+    fill="#050816"/>
 
-</text>
+  <!-- Border -->
 
-<text x="700"
-      y="120"
-      fill="#A855F7"
-      font-size="64"
-      text-anchor="middle"
-      filter="url(#glow)">
-CLASS : AI ENGINEER
+  <rect
+    x="10"
+    y="10"
+    width="1380"
+    height="780"
+    fill="none"
+    stroke="#7C3AED"
+    stroke-width="2"/>
 
-</text>
+  <!-- Title -->
+
+  <text
+    x="700"
+    y="100"
+    fill="#A855F7"
+    font-size="64"
+    font-weight="bold"
+    text-anchor="middle"
+    filter="url(#glow)">
+
+    ⚔ SHADOW SYSTEM ⚔
+
+  </text>
+
+  <!-- Player -->
+
+  <text
+    x="700"
+    y="160"
+    fill="#FFFFFF"
+    font-size="28"
+    text-anchor="middle">
+
+    PLAYER : MOHAMAD ISTAB AHAMAD
+
+  </text>
+
+  <text
+    x="700"
+    y="200"
+    fill="#FFFFFF"
+    font-size="28"
+    text-anchor="middle">
+
+    CLASS : AI ENGINEER
+
+  </text>
+
+  <!-- Hunter Status Window -->
+
+  <rect
+    x="50"
+    y="260"
+    width="380"
+    height="260"
+    rx="12"
+    fill="#0B1220"
+    stroke="#7C3AED"
+    stroke-width="2"/>
+
+  <text
+    x="240"
+    y="300"
+    fill="#A855F7"
+    font-size="28"
+    text-anchor="middle"
+    filter="url(#glow)">
+
+    HUNTER STATUS
+
+  </text>
+
+  <text
+    x="80"
+    y="350"
+    fill="#FFFFFF"
+    font-size="22">
+
+    TITLE : SHADOW ARCHITECT
+
+  </text>
+
+  <text
+    x="80"
+    y="390"
+    fill="#FFFFFF"
+    font-size="22">
+
+    CLASS : AI ENGINEER
+
+  </text>
+
+  <text
+    x="80"
+    y="430"
+    fill="#FFFFFF"
+    font-size="22">
+
+    RANK : B
+
+  </text>
+
+  <text
+    x="80"
+    y="470"
+    fill="#FFFFFF"
+    font-size="22">
+
+    STATUS : ONLINE
+
+  </text>
+
+  <text
+    x="80"
+    y="510"
+    fill="#A855F7"
+    font-size="18">
+
+    MANA
+
+  </text>
+
+  <rect
+    x="140"
+    y="495"
+    width="220"
+    height="18"
+    rx="8"
+    fill="#222"/>
+
+  <rect
+    x="140"
+    y="495"
+    width="190"
+    height="18"
+    rx="8"
+    fill="#7C3AED"/>
 
 </svg>
-
-<defs>
-
-  <filter id="glow">
-
-    <feGaussianBlur
-      stdDeviation="4"
-      result="blur"/>
-
-    <feMerge>
-      <feMergeNode in="blur"/>
-      <feMergeNode in="SourceGraphic"/>
-    </feMerge>
-
-  </filter>
-
-</defs>
+```
