@@ -1,1 +1,59 @@
 
+<svg
+width="1400"
+height="800"
+viewBox="0 0 1400 800"
+xmlns="http://www.w3.org/2000/svg">
+
+<rect
+width="1400"
+height="800"
+fill="#050816"/>
+
+<rect
+x="10"
+y="10"
+width="1380"
+height="780"
+fill="none"
+stroke="#7C3AED"
+stroke-width="2"/>
+
+<text
+x="700"
+y="120"
+fill="#A855F7"
+font-size="64"
+font-family="Arial"
+font-weight="bold"
+text-anchor="middle">
+
+⚔ SHADOW SYSTEM ⚔
+
+</text>
+
+<text
+x="700"
+y="180"
+fill="#E5E7EB"
+font-size="24"
+font-family="Arial"
+text-anchor="middle">
+
+PLAYER : MOHAMAD ISTAB AHAMAD
+
+</text>
+
+<text
+x="700"
+y="220"
+fill="#E5E7EB"
+font-size="24"
+font-family="Arial"
+text-anchor="middle">
+
+CLASS : AI ENGINEER
+
+</text>
+
+</svg>
