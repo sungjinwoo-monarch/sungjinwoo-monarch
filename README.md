@@ -16,7 +16,7 @@ If you find any of my projects interesting, feel free to explore my repositories
 
 <p align="left">
 
-<a href="https://www.instagram.com/YOUR_USERNAME">
+<a href="https://www.instagram.com/jinwoo.sys">
 <img src="https://img.shields.io/badge/Instagram-241B4B?style=for-the-badge&logo=instagram&logoColor=C4B5FD"/>
 </a>
 
