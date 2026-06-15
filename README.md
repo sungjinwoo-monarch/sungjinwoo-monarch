@@ -28,10 +28,6 @@ If you find any of my projects interesting, feel free to explore my repositories
 <img src="https://img.shields.io/badge/Email-241B4B?style=for-the-badge&logo=gmail&logoColor=C4B5FD"/>
 </a>
 
-<a href="https://github.com/sungjinwoo-monarch">
-<img src="https://img.shields.io/badge/GitHub-241B4B?style=for-the-badge&logo=github&logoColor=C4B5FD"/>
-</a>
-
 </p>
 
 <div align="center">
