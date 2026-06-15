@@ -1,19 +1,12 @@
-# 💫 **ꯍꯥꯏ • Hi • नमस्ते • مرحبًا, I'm Mohamad Istab Ahamad** 👋
+#  **ꯍꯥꯏ • Hi • नमस्ते • مرحبًا, I'm Mohamad Istab Ahamad** 👋
 
 I'm a Computer Science student from India with a background in biology and a strong interest in artificial intelligence, software development, and emerging technologies. I enjoy building projects, solving problems, and exploring new ideas through code. This GitHub profile is where I share my projects, experiments, and learning journey as I continue to grow as a developer.
 
-## 🏆 Highlights
+##  Highlights
 
 * 🥇 Winner of one of Northeast India's largest 48-hour AI Hackathons.
 * 🎤 Represented Manipur as an Exhibitor at an AI Summit.
 * 🚀 Passionate about Artificial Intelligence, Automation, and Full-Stack Development.
-
-## 💻 What I'm Working On
-
-* Building AI-powered applications and automation systems.
-* Exploring AI Engineering, Machine Learning, and Large Language Models (LLMs).
-* Developing modern web applications with scalable architectures.
-* Continuously learning and experimenting with new technologies.
 
 If you find any of my projects interesting, feel free to explore my repositories, share your feedback, and consider giving a ⭐ to the projects you find valuable. I'm always open to connecting with fellow developers, builders, and technology enthusiasts.
 
