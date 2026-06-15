@@ -1,6 +1,6 @@
 #  **ꯍꯥꯏ • Hi • नमस्ते • مرحبًا, I'm Mohamad Istab Ahamad** 👋
 
-I'm a Computer Science student from India with a background in biology and a strong interest in artificial intelligence, software development, and emerging technologies. I enjoy building projects, solving problems, and exploring new ideas through code. This GitHub profile is where I share my projects, experiments, and learning journey as I continue to grow as a developer.
+I'm a Computer Science student from Manipur(India) with a background in biology and a strong interest in artificial intelligence, software development, and emerging technologies. I enjoy building projects, solving problems, and exploring new ideas through code. This GitHub profile is where I share my projects, experiments, and learning journey as I continue to grow as a developer.
 
 ##  Highlights
 
