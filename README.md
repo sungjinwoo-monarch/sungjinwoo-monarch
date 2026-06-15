@@ -1,33 +1,21 @@
-```md
+```html id="g48pyv"
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=1200&lines=%EA%AF%8D%EA%AF%A5%EA%AF%8F+%E2%80%A2+Hi+%E2%80%A2+%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+%E2%80%A2+%D9%85%D8%B1%D8%AD%D8%A8%D9%8B%D8%A7%2C+I'm+Mohamad+Istab+Ahamad+%F0%9F%91%8B" />
+  <img src="./assets/banner.png" width="100%" alt="Mohamad Istab Ahamad Banner">
 </p>
+```
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Ex--Medical%20Student-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Summit-Exhibitor%20(Govt.%20of%20Manipur)-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TechSprint%20NE-AI%20Hackathon%20Winner-7C3AED?style=for-the-badge" />
-</p>
 
-<br>
 
-I'm a Computer Science student from Manipur, India, with a background in biology and a strong interest in artificial intelligence, software development, and emerging technologies. I enjoy building projects, solving problems, and exploring new ideas through code. This GitHub profile is where I share my projects, experiments, and learning journey as I continue to grow as a developer.
+
+I'm a Computer Science student from Manipur(India) with a background in biology and a strong interest in artificial intelligence, software development, and emerging technologies. I enjoy building projects, solving problems, and exploring new ideas through code. This GitHub profile is where I share my projects, experiments, and learning journey as I continue to grow as a developer.
 
 ## 🏆 Highlights
 
-- 🥇 Winner of **TechSprint NE**, one of Northeast India's largest 48-hour AI Hackathons.
-- 🎤 Represented **Manipur as an Exhibitor at AI Summit 2026** under the **Government of Manipur**.
-- 🚀 Passionate about **Artificial Intelligence, Automation, and Full-Stack Development**.
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Automation-6A5ACD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Full--Stack%20Development-2563EB?style=for-the-badge" />
-</p>
+* 🥇 Winner of TechSprint Northeast India's largest 48 hour AI Hackathons.
+* 🎤 Represented Manipur as an Exhibitor at an AI Summit.
+* 🚀 Passionate about Artificial Intelligence, Automation, and Full-Stack Development.
 
 If you find any of my projects interesting, feel free to explore my repositories, share your feedback, and consider giving a ⭐ to the projects you find valuable. I'm always open to connecting with fellow developers, builders, and technology enthusiasts.
-```
-
 
 ##  Connect
 
