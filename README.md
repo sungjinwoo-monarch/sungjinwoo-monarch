@@ -1,14 +1,22 @@
-# 💫 Hi 👋, I'm Mohamad Istab Ahamad
+# 💫 **ꯍꯥꯏ • Hi • नमस्ते • مرحبًا, I'm Mohamad Istab Ahamad** 👋
 
-**AI Developer || Full-Stack Developer || Computer Science Student from India**
+I'm a Computer Science student from India with a background in biology and a strong interest in artificial intelligence, software development, and emerging technologies. I enjoy building projects, solving problems, and exploring new ideas through code. This GitHub profile is where I share my projects, experiments, and learning journey as I continue to grow as a developer.
 
-📧 Email Me 👉 **istabahamad@gmail.com** For Collaboration, Projects, Open Source Contributions, Research, or Anything Else.
+## 🏆 Highlights
 
-- 🚀 **I’m currently working on:** AI-Powered Applications, Full-Stack Products, and Automation Systems
-- 📚 **I’m currently learning:** AI Engineering, Machine Learning, Large Language Models (LLMs), and Cloud Computing
-- 🤝 **I’m looking to collaborate on:** AI Projects, Open Source Projects, and Innovative Tech Products
-- 🧠 **I’m looking for help with:** Advanced AI Systems and Scalable Product Development
-- 💬 **Ask me about:** Artificial Intelligence, Full-Stack Development, React, Next.js, TypeScript, and Python
+* 🥇 Winner of one of Northeast India's largest 48-hour AI Hackathons.
+* 🎤 Represented Manipur as an Exhibitor at an AI Summit.
+* 🚀 Passionate about Artificial Intelligence, Automation, and Full-Stack Development.
+
+## 💻 What I'm Working On
+
+* Building AI-powered applications and automation systems.
+* Exploring AI Engineering, Machine Learning, and Large Language Models (LLMs).
+* Developing modern web applications with scalable architectures.
+* Continuously learning and experimenting with new technologies.
+
+If you find any of my projects interesting, feel free to explore my repositories, share your feedback, and consider giving a ⭐ to the projects you find valuable. I'm always open to connecting with fellow developers, builders, and technology enthusiasts.
+
 
 
 ##  Connect
