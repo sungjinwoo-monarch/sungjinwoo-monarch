@@ -1,6 +1,10 @@
-<p align="center">
-  <img src="assets/banner.png" width="100%">
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:5B4BDB,100:6D5DF6&height=180&section=header&text=%20&fontColor=EAEAEA&fontSize=40&animation=fadeIn&desc=ꯍꯥꯜꯂꯣ%20•%20Hello%20•%20नमस्कार%20•%20مرحبًا%20•%20こんにちは%20•%20你好%20•%20안녕하세요&descAlignY=55&descSize=22" width="100%"/>
+
+</div>
+
+
 
 <h1 align="center">Mohamad Istab Ahamad</h1>
 
