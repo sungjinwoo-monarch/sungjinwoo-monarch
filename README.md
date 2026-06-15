@@ -1,13 +1,33 @@
-```html id="g48pyv"
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Mohamad Istab Ahamad Banner">
+  <img src="assets/banner.png" width="100%">
 </p>
-```
 
+<h1 align="center">Mohamad Istab Ahamad</h1>
 
+<p align="center">
+CS Student • AI Developer • Full-Stack Developer
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/istab-maibam-127848375">
+<img src="https://img.shields.io/badge/LinkedIn-241B4B?style=for-the-badge&logo=linkedin&logoColor=C4B5FD"/>
+</a>
+  <a href="https://www.instagram.com/jinwoo.sys">
+<img src="https://img.shields.io/badge/Instagram-241B4B?style=for-the-badge&logo=instagram&logoColor=C4B5FD"/>
+</a>
 
-I'm a Computer Science student from Manipur(India) with a background in biology and a strong interest in artificial intelligence, software development, and emerging technologies. I enjoy building projects, solving problems, and exploring new ideas through code. This GitHub profile is where I share my projects, experiments, and learning journey as I continue to grow as a developer.
+  <a href="mailto:istabahamad@gmail.com">
+<img src="https://img.shields.io/badge/Email-241B4B?style=for-the-badge&logo=gmail&logoColor=C4B5FD"/>
+</a>
+</p>
+
+---
+
+## About Me
+
+I'm a 19 year old Computer Science student from Manipur(India) with a background in biology and a strong interest in artificial intelligence, software development, and emerging technologies. I enjoy building projects, solving problems, and exploring new ideas through code. This GitHub profile is where I share my projects, experiments, and learning journey as I continue to grow as a developer.
+
+---
 
 ## 🏆 Highlights
 
@@ -17,22 +37,9 @@ I'm a Computer Science student from Manipur(India) with a background in biology 
 
 If you find any of my projects interesting, feel free to explore my repositories, share your feedback, and consider giving a ⭐ to the projects you find valuable. I'm always open to connecting with fellow developers, builders, and technology enthusiasts.
 
-##  Connect
 
-<p align="left">
 
-<a href="https://www.instagram.com/jinwoo.sys">
-<img src="https://img.shields.io/badge/Instagram-241B4B?style=for-the-badge&logo=instagram&logoColor=C4B5FD"/>
-</a>
-
-<a href="https://www.linkedin.com/in/istab-maibam-127848375">
-<img src="https://img.shields.io/badge/LinkedIn-241B4B?style=for-the-badge&logo=linkedin&logoColor=C4B5FD"/>
-</a>
-
-<a href="mailto:istabahamad@gmail.com">
-<img src="https://img.shields.io/badge/Email-241B4B?style=for-the-badge&logo=gmail&logoColor=C4B5FD"/>
-</a>
-
+  
 </p>
 
 <div align="center">
