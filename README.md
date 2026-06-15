@@ -4,8 +4,8 @@ I'm a Computer Science student from Manipur(India) with a background in biology 
 
 ##  Highlights
 
-* 🥇 Winner of one of Northeast India's largest 48-hour AI Hackathons.
-* 🎤 Represented Manipur as an Exhibitor at an AI Summit.
+* 🥇 Winner of TechSprint Northeast India's largest 48 hour AI Hackathon.
+* 🎤 Represented Manipur as an Exhibitor at AI Summit 2026 under the Government of Manipur.
 * 🚀 Passionate about Artificial Intelligence, Automation, and Full-Stack Development.
 
 If you find any of my projects interesting, feel free to explore my repositories, share your feedback, and consider giving a ⭐ to the projects you find valuable. I'm always open to connecting with fellow developers, builders, and technology enthusiasts.
