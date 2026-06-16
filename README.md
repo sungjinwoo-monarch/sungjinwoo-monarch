@@ -35,7 +35,7 @@ I'm a 19 year old Computer Science student from Manipur(India) with a background
 
 ## 🏆 Highlights
 
-* 🥇 Winner of TechSprint Northeast India's largest 48 hour AI Hackathons.
+* 🥇 Winner of TechSprint 1.0 Northeast India's largest 48 hour AI Hackathons.
 * 🎤 Represented Manipur as an Exhibitor at an AI Summit.
 * 🚀 Passionate about Artificial Intelligence, Automation, and Full-Stack Development.
 
